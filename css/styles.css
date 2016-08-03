@@ -1,0 +1,52 @@
+.column{
+  float: left;
+  width: 30%;
+}
+
+.splash{
+  border: 10px solid pink;
+  padding: 10px;
+}
+
+.highlight{
+  color: gold;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.sidebar{
+
+}
+
+.sidebar img{
+  width: 500px;
+  height: auto;
+  padding-right: 10px;
+}
+
+.sidebar p{
+  font-family: sans-serif;
+  text-align: justify;
+  font-size: 25px;
+  padding-right: 10px;
+}
+
+.sidebar ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px
+  font-family: sans-serif;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
